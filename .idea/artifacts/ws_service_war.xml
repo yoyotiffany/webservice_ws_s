@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ws_service:war">
+    <output-path>$PROJECT_DIR$/ws_service/target</output-path>
+    <root id="archive" name="ws_service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ws_service:war exploded" />
+    </root>
+  </artifact>
+</component>
