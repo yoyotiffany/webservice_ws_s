@@ -8,5 +8,6 @@ import javax.jws.WebService;
  */
 @WebService(targetNamespace = "http://server.webservice.yq.com/", name = "helloImp")
 public interface helloImpService {
+    //新版本
     public String sayHello();
 }
