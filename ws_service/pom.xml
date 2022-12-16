@@ -12,7 +12,7 @@
     <description></description>
 
     <properties>
-        <spring.version>4.1.6.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <fasterjackson.version>2.3.2</fasterjackson.version>
         <jackson.version>1.9.12</jackson.version>
         <jsonlib.version>2.4</jsonlib.version>
